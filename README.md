@@ -28,12 +28,19 @@
   Preprocess the dataset:
 
   .Replace incorrect data in the height column with random numbers between 150 and 180.
+  
  .Check for any missing or inconsistent data.
+ 
  .Ensure data types are appropriate for analysis.
+ 
 # Provide detailed reports:
 
 . Calculate the number and percentage of employees in each team.
+
 . Segregate employees by position.
+
 . Identify the age group with the most employees.
+
 . Determine which team and position have the highest salary spending.
+
 . Analyze the correlation between age and salary and represent it visually.
