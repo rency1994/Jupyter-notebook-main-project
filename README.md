@@ -6,23 +6,23 @@
 # Dataset
  dataset contains the following columns:
 
-. employee_id: Unique identifier for each employee
+. 'employee_id': Unique identifier for each employee
 
-. name: Name of the employee
+. 'name': Name of the employee
 
-. age: Age of the employee
+. 'age': Age of the employee
 
-. position: Position held by the employee
+. 'position': Position held by the employee
 
-. team: Team to which the employee belongs
+. 'team': Team to which the employee belongs
 
-. salary: Salary of the employee
+. 'salary': Salary of the employee
 
-. height: Height of the employee (contains incorrect data)
+. 'height': Height of the employee (contains incorrect data)
 
-. gender: Gender of the employee
+. 'gender': Gender of the employee
 
-. date_of_joining: Date when the employee joined the company
+. 'date_of_joining': Date when the employee joined the company
 
 # Objectives
   Preprocess the dataset:
